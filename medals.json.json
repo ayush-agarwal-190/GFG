@@ -1,0 +1,8618 @@
+[
+  {
+    "event_title": "+ 100kg (heavyweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "+ 67 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "+ 78kg (heavyweight) women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "+ 80 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "+ 91kg (super heavyweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "+ 95kg (heavyweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "+105kg men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "+75kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "- 48 kg - extralightweight women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 48 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 48kg (light-flyweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 49 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 52kg (flyweight) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "- 58 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 60 kg -extralightweight men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "- 60 kg men",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "- 63kg (lightweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "-56kg (bantamweight) men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "0.5-1t mixed",
+    "BRONZE": 2,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "0.5t mixed, race one",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "0.5t mixed, race two",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1 mile 1609m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1,600 metres Medley Relay Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1-2 Ton Race One Open",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1-2t mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1/2 mile 805m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1/3 mile 536m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1/4 mile 402m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "10-20t mixed",
+    "BRONZE": 0,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "100  110kg heavyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "10000m men",
+    "BRONZE": 45,
+    "GOLD": 45,
+    "SILVER": 45
+  },
+  {
+    "event_title": "10000m walk men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "10000m walk women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "10000m women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "1000m freestyle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1000m men",
+    "BRONZE": 19,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "1000m women",
+    "BRONZE": 21,
+    "GOLD": 21,
+    "SILVER": 21
+  },
+  {
+    "event_title": "1000y free rifle prone men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "100kg heavyweight men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "100km men",
+    "BRONZE": 1,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "100m backstroke men",
+    "BRONZE": 26,
+    "GOLD": 25,
+    "SILVER": 25
+  },
+  {
+    "event_title": "100m backstroke women",
+    "BRONZE": 23,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "100m breaststroke men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "100m breaststroke women",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "100m butterfly men",
+    "BRONZE": 11,
+    "GOLD": 13,
+    "SILVER": 16
+  },
+  {
+    "event_title": "100m butterfly women",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "100m freestyle for sailors men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "100m freestyle men",
+    "BRONZE": 27,
+    "GOLD": 27,
+    "SILVER": 27
+  },
+  {
+    "event_title": "100m freestyle women",
+    "BRONZE": 25,
+    "GOLD": 26,
+    "SILVER": 22
+  },
+  {
+    "event_title": "100m hurdles women",
+    "BRONZE": 13,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "100m men",
+    "BRONZE": 29,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "100m running deer double shots men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "100m running deer double shots team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "100m running deer single shots men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "100m running deer single shots team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "100m running deer singledouble shots men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "100m women",
+    "BRONZE": 20,
+    "GOLD": 20,
+    "SILVER": 23
+  },
+  {
+    "event_title": "105kg heavyweight men",
+    "BRONZE": 5,
+    "GOLD": 4,
+    "SILVER": 5
+  },
+  {
+    "event_title": "105kg superheavyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "108kg super heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "10km men",
+    "BRONZE": 11,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "10km pursuit men",
+    "BRONZE": 4,
+    "GOLD": 5,
+    "SILVER": 3
+  },
+  {
+    "event_title": "10km pursuit women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "10km women",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "10m Air Pistol Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "10m Air Pistol Mixed Team",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "10m Air Pistol women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "10m Air Rifle Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "10m Air Rifle Mixed Team",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "10m Air Rifle women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "10m air pistol 40 shots women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "10m air pistol 60 shots men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "10m air rifle 40 shots women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "10m air rifle 60 shots men",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "10m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "10m platform men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 26
+  },
+  {
+    "event_title": "10m platform women",
+    "BRONZE": 24,
+    "GOLD": 24,
+    "SILVER": 24
+  },
+  {
+    "event_title": "10m rating 1907 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "10m rating 1919 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "10m running target 3030 shot men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "10miles walk 1609m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "110kg super heavyweight men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "110m hurdles men",
+    "BRONZE": 27,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "12 foot dinghy mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 2
+  },
+  {
+    "event_title": "12-hour race men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "12.5km mass start women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "12.5km pursuit men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1200m freestyle men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "125km mass start women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "125km pursuit men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "12m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "12m rating 1907 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "12m rating 1919 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1500m freestyle men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 26
+  },
+  {
+    "event_title": "1500m men",
+    "BRONZE": 53,
+    "GOLD": 56,
+    "SILVER": 53
+  },
+  {
+    "event_title": "1500m women",
+    "BRONZE": 30,
+    "GOLD": 31,
+    "SILVER": 30
+  },
+  {
+    "event_title": "15km mass start men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "15km mass start women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "15km men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "15km women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "18km men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "1980 yards Pursuit Team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "1km Pursuit men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "1km time trial men",
+    "BRONZE": 19,
+    "GOLD": 19,
+    "SILVER": 19
+  },
+  {
+    "event_title": "2 miles 3218m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "2-3 Ton Race Two Open",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "2-3t mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "2-man",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "2-woman",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "2000m tandem men",
+    "BRONZE": 24,
+    "GOLD": 24,
+    "SILVER": 24
+  },
+  {
+    "event_title": "200m backstroke men",
+    "BRONZE": 15,
+    "GOLD": 15,
+    "SILVER": 15
+  },
+  {
+    "event_title": "200m backstroke women",
+    "BRONZE": 14,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "200m breaststroke men",
+    "BRONZE": 25,
+    "GOLD": 25,
+    "SILVER": 25
+  },
+  {
+    "event_title": "200m breaststroke women",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "200m butterfly men",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "200m butterfly women",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "200m freestyle men",
+    "BRONZE": 13,
+    "GOLD": 14,
+    "SILVER": 15
+  },
+  {
+    "event_title": "200m freestyle women",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "200m hurdles men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "200m individual medley men",
+    "BRONZE": 11,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "200m individual medley women",
+    "BRONZE": 11,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "200m men",
+    "BRONZE": 27,
+    "GOLD": 27,
+    "SILVER": 27
+  },
+  {
+    "event_title": "200m obstacle event men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "200m team swimming men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "200m women",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "20km men",
+    "BRONZE": 15,
+    "GOLD": 16,
+    "SILVER": 17
+  },
+  {
+    "event_title": "20km race walk women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "20km walk men",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "20km women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "20t + mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "220 yard Freestyle Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25 kilometres men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25 miles 40232m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25m Pistol Women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25m Rapid Fire Pistol Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25m army pistol men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25m pistol (30+30 shots) women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25m pistol 3030 shots women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "25m rapid fire pistol 60 shots men",
+    "BRONZE": 21,
+    "GOLD": 21,
+    "SILVER": 21
+  },
+  {
+    "event_title": "25m rapid fire pistol 60 shots mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "25m small rifle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25y small bore rifle disappearing target men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "25y small bore rifle moving target men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "2x500m men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "2x500m women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "2x6km Women + 2x7.5km Men Mixed Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3-10 Ton Race One Open",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3-10t mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3000m relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3000m steeplechase men",
+    "BRONZE": 25,
+    "GOLD": 25,
+    "SILVER": 25
+  },
+  {
+    "event_title": "3000m steeplechase women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "3000m team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3000m walk men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "3000m women",
+    "BRONZE": 17,
+    "GOLD": 18,
+    "SILVER": 19
+  },
+  {
+    "event_title": "300600m free rifle team prone men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "300m free rifle 3 positions 3 men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "300m free rifle 3 positions 3x40 shots mixed",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "300m free rifle 3 positions standing men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "300m free rifle prone team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "300m free rifle standing team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "300m freestyle women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "30km mass start men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "30km women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "30m army pistol team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "30m sq mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3200m steeplechase men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "3500m walk men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "3m springboard men",
+    "BRONZE": 26,
+    "GOLD": 25,
+    "SILVER": 25
+  },
+  {
+    "event_title": "3m springboard women",
+    "BRONZE": 23,
+    "GOLD": 23,
+    "SILVER": 23
+  },
+  {
+    "event_title": "3miles team 4828m men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "3x75km relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4 x 400m Relay Mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4 x 50 yard Freestyle Relay Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4-man",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "400 600 800m free rifle team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4000m freestyle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "4000m steeplechase men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "400m breaststroke men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "400m freestyle men",
+    "BRONZE": 27,
+    "GOLD": 27,
+    "SILVER": 27
+  },
+  {
+    "event_title": "400m freestyle women",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "400m hurdles men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 26
+  },
+  {
+    "event_title": "400m hurdles women",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "400m individual medley men",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "400m individual medley women",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "400m men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 27
+  },
+  {
+    "event_title": "400m women",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "40m sq mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "46-49kg men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "470 - Two Person Dinghy men",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "470 - Two Person Dinghy women",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "470 Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "470 Women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "4763  5216kg bantamweight men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "4763kg flyweight men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "48  52kg halflightweight women",
+    "BRONZE": 12,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "48 - 52kg (half-lightweight) women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "48 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "48-51kg flyweight men",
+    "BRONZE": 22,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "48kg extralightweight women",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "48kg light flywieght men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "48kg lightflyweight men",
+    "BRONZE": 16,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "48kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "49 - 57 kg women",
+    "BRONZE": 8,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "49 kg women",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "49er - Skiff men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "49er - Skiff mixed",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "49er FX Women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "49er FX Women women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "49er Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "4miles team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m freestyle men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m freestyle relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m freestyle relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m medley relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m medley relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x100m relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x200m freestyle relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x200m freestyle relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x400m relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x400m relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x50y freestyle relay men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "4x6km relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x7.5km relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x75km relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "4x75km relay women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "5 miles 8046m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5 miles 8047m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5.5m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "5000m men",
+    "BRONZE": 47,
+    "GOLD": 47,
+    "SILVER": 47
+  },
+  {
+    "event_title": "5000m relay men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "5000m team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "5000m women",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "500m men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 29
+  },
+  {
+    "event_title": "500m time trial women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "500m women",
+    "BRONZE": 18,
+    "GOLD": 19,
+    "SILVER": 21
+  },
+  {
+    "event_title": "508  5352kg bantamweight men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "508  54kg bantamweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "508kg flyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "50km men",
+    "BRONZE": 24,
+    "GOLD": 24,
+    "SILVER": 24
+  },
+  {
+    "event_title": "50km walk men",
+    "BRONZE": 19,
+    "GOLD": 19,
+    "SILVER": 19
+  },
+  {
+    "event_title": "50m Rifle 3 Positions Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "50m Rifle 3 Positions women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "50m army pistol team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "50m freestyle men",
+    "BRONZE": 8,
+    "GOLD": 9,
+    "SILVER": 7
+  },
+  {
+    "event_title": "50m freestyle women",
+    "BRONZE": 9,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "50m pistol 60 shots men",
+    "BRONZE": 21,
+    "GOLD": 21,
+    "SILVER": 21
+  },
+  {
+    "event_title": "50m pistol 60 shots mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "50m rifle 3 positions 3x20 shots women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "50m rifle 3 positions 3x40 shots men",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "50m rifle 3 positions 3x40 shots mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "50m rifle prone 60 shots men",
+    "BRONZE": 20,
+    "GOLD": 20,
+    "SILVER": 20
+  },
+  {
+    "event_title": "50m rifle prone 60 shots mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "50m running target 3030 shot men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "50m running target 3030 shots mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "50m small bore rifle standing individual men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "50m small bore rifle team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "50y freestyle 4572m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "51 kg fly women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "51-54kg bantamweight men",
+    "BRONZE": 31,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "51kg flyweight men",
+    "BRONZE": 9,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "52  56kg bantamweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "52  56kg lightweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "52  57kg lightweight women",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "5216  567kg featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5262  5715kg featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5262kg bantamweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "52kg flyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "52kg men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "5352  5715kg featherweight men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "53kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "54  5715kg featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "54  59kg bantamweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "54 - 58kg (featherweight) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "54-57kg featherweight men",
+    "BRONZE": 30,
+    "GOLD": 15,
+    "SILVER": 15
+  },
+  {
+    "event_title": "54kg flyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "56  61kg halfmiddleweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "56 - 60kg (featherweight) men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "567  6124kg lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "56kg bantamweight men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "56kg men",
+    "BRONZE": 5,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "56lb weight throw 254kg men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "57  63kg halfmiddleweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "57 - 63kg (half-middleweight) women",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "57 - 67 kg women",
+    "BRONZE": 8,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "57-60kg lightweight men",
+    "BRONZE": 34,
+    "GOLD": 17,
+    "SILVER": 17
+  },
+  {
+    "event_title": "5715  6124kg lightweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "5715  635kg lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "58  62kg lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "58 - 68 kg men",
+    "BRONZE": 8,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "58 kg men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "58kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "59  64kg featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5km pursuit women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "5km women",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "60  65kg halflightweight men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60  66kg halflightweight men",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "60  675kg onetwo hand 3 events lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60  675kg onetwo hand 5 events lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60 - 63.5kg (light-welterweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "60 - 64 kg men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "60 - 65kg (half-lightweight) men",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "60 - 66kg (half-lightweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60 - 67.5kg (lightweight) men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "60 kg light women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60-63.5kg lightwelterweigh men",
+    "BRONZE": 22,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "60-67.5kg lightweight men",
+    "BRONZE": 10,
+    "GOLD": 12,
+    "SILVER": 8
+  },
+  {
+    "event_title": "600m free rifle individual men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "600m free rifle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "600m free rifle prone men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "600m free rifle team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "60kg featherweight men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "60kg onetwo hand 3 events featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60kg onetwo hand 5 events featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "60m men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "61  66kg middleweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "6124  6577kg welterweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "6124  6668kg welterweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "62  67kg welterweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "62kg featherweight men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "63  70kg halfmiddleweight men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "63  70kg middleweight women",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "63.5 - 67kg (welterweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "63.5-67kg welterweight men",
+    "BRONZE": 24,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "635  7167kg middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "63kg lightweight men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 0
+  },
+  {
+    "event_title": "63kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "64  70kg lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "64 - 69 kg men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "65 - 71kg (lightweight) men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "6577  7167kg middleweight men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "65m rating 1919 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "66  72kg halfheavyweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "66  73kg lightweight men",
+    "BRONZE": 12,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "6668  7257kg middleweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "67  71kg lightmiddleweight men",
+    "BRONZE": 20,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "67  73kg middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "67 kg women",
+    "BRONZE": 6,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "67-71kg lightmiddleweight men",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "67.5 - 75kg, (middleweight) men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "67.5-75kg middleweight men",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "675  75kg onetwo hand 3 events middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "675  75kg onetwo hand 5 events middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "68  80kg middleweight men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "68 - 80 kg men",
+    "BRONZE": 8,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "68kg lightweight men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "69 - 75 kg men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "69kg men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "69kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "6m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "6m rating 1907 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "6m rating 1919 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "7.5km women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 0
+  },
+  {
+    "event_title": "70  76kg middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "70  78kg halfheavyweight women",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "70  80kg middleweight men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "70 - 78kg (half-heavyweight) women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "71  78kg halfmiddleweight men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "71 - 78kg (half-middleweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "71-75kg men",
+    "BRONZE": 26,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "7167kg heavyweight men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "7257  7938kg lightheavyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "72kg heavyweight women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "73  80kg lightheavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "73  81kg halfmiddleweight men",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "73 - 81kg (half-middleweight) men",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "75  825kg lightheavyweight men",
+    "BRONZE": 4,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "75  825kg onetwo hand 3 e lightheavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "75  825kg onetwo hand 5 e lightheavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "75 - 81kg (light-heavyweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "75 kg middle women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "75-81kg lightheavyweight men",
+    "BRONZE": 30,
+    "GOLD": 15,
+    "SILVER": 15
+  },
+  {
+    "event_title": "75-82.5kg total lightheavyweight men",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "75kg women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "75km women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "76  83kg lightheavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "77kg men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "78  86kg middleweight men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "78kg heavyweight women",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "7938kg heavyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "7m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "80 - 93kg (half-heavyweight) men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "80 kg men",
+    "BRONZE": 6,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "800m freestyle women",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "800m men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "800m women",
+    "BRONZE": 15,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "80kg heavyweight men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "80m hurdles women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "81  90kg middleweight men",
+    "BRONZE": 12,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "81-91kg heavyweight men",
+    "BRONZE": 18,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "81kg heavyweight men",
+    "BRONZE": 16,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "82.5 - 90kg (middle-heavyweight) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "82.5kg heavyweight men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "825  90kg middleheavyweight men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "825  90kg total middleheavyweight men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "825kg onetwo hand 3 events heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "825kg onetwo hand 5 events heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "83 - 91kg middle-heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "85kg men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "86  95kg halfheavyweight men",
+    "BRONZE": 8,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "880y freestyle 80466m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "8m class C men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "8m mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "8m rating 1907 mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "8m rating 1919 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "90  100kg firstheavyweight men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "90  100kg halfheavyweight men",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "90 - 100kg (first-heavyweight) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "90 - 100kg (half-heavyweight) men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "90kg heavyweight men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "91  110kg heavyweight men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "91 - 99kg (first-heavyweight) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "91kg super heavyweight men",
+    "BRONZE": 14,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "93kg heavyweight men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "94kg men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "95kg heavyweight men",
+    "BRONZE": 6,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "99  108kg heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Aerials men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Aerials women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "All-Around Championship Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "All-around Dumbbell contest men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Alpine Team Event",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Athens 2004 Judo - 48 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Athens 2004 Judo - 60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Athens 2004 Taekwondo - 49 kg women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Athens 2004 Taekwondo - 58 kg men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Atlanta 1996 Judo - 60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Bantamweight, Freestyle (≤125 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Bantamweight, Freestyle (≤54 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Bantamweight, Freestyle (≤56 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Bantamweight, Freestyle (≤57 kilograms) Men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "Bantamweight, Greco-Roman (≤54 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Bantamweight, Greco-Roman (≤56 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Bantamweight, Greco-Roman (≤57 kilograms) Men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "Bantamweight, Greco-Roman (≤58 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Baseball",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Beach volleyball men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "Beach volleyball women",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "Beijing 2008 Taekwondo - 49 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Beijing 2008 Taekwondo - 58 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "C-1 (canoe single) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "C-1 10000m men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "C-1 1000m (canoe single) men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "C-1 200m (canoe single) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "C-1 500m (canoe single) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "C-2 (canoe double) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "C-2 10000m men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "C-2 1000m (canoe double) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "C1 1000m canoe single men",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "C1 500m canoe single men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "C1 canoe single men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "C2 1000m canoe double men",
+    "BRONZE": 36,
+    "GOLD": 36,
+    "SILVER": 36
+  },
+  {
+    "event_title": "C2 500m canoe double men",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "C2 canoe double men",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "Championnat Du Monde Men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Combined 10km  15km pursuit men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Combined 5km  10km pursuit women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Combined 7.5 + 7.5km mass start women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Course De Primes Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Coxed Eights Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Coxless Fours Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Coxless Pairs Men",
+    "BRONZE": 6,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Division II - Windsurfer men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Double Sculls Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Doubles",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Doubles Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Doubles mixed",
+    "BRONZE": 40,
+    "GOLD": 42,
+    "SILVER": 38
+  },
+  {
+    "event_title": "Dressage Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Dressage Individual Grand Prix mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Dressage Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Dressage Team Grand Prix mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Duet",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Duet Women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Elliott 6m - Match Racing women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Eventing Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Eventing Individual mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Eventing Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Eventing Team mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Featherweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤133 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤135 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤55 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤58 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤60 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤61 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤62 kilograms) Men",
+    "BRONZE": 11,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "Featherweight, Freestyle (≤63 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤55 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤58 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤60 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤61 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤62 kilograms) Men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "Featherweight, Greco-Roman (≤63 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Finn - Heavyweight Dinghy mixed",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Finn - One Person Dinghy (Heavyweight) men",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "Finn Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Flyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Flyweight, Freestyle (≤115 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Flyweight, Freestyle (≤48 kilograms) Women",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Flyweight, Freestyle (≤52 kilograms) Men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "Flyweight, Greco-Roman (≤52 kilograms) Men",
+    "BRONZE": 13,
+    "GOLD": 13,
+    "SILVER": 13
+  },
+  {
+    "event_title": "Four-man",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Free Pistol, 50 Yards, Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Free Rifle, Three Positions, 300 metres, Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Freestyle 120kg men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Freestyle 125 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 48 kg women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Freestyle 53 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 55 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 55 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 57 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 58 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 63 kg women",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Freestyle 65 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 66 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 69 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 72 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 74 kg men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Freestyle 75 kg women",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 84 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 86 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 96 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Freestyle 97 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Giant parallel slalom men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Giant parallel slalom women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Greco-Roman 120 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 130 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 55 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 59 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 66 kg men",
+    "BRONZE": 4,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Greco-Roman 74 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 75 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 84 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 85kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 96 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Greco-Roman 98 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Group All-Around",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Group All-Around women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Half-pipe men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "Half-pipe women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "Heavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (>158 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (>73 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (>82.5 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (>87 kilograms) Men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (>97 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (≤100 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (≤72 kilograms) Women",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Heavyweight, Freestyle (≤96 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (>82.5 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (>87 kilograms) Men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (>93 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (>97 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (≤100 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Heavyweight, Greco-Roman (≤96 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ice Dance",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Ice dancing mixed",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "Individual All-Around",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Individual All-Around women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Individual All-Around, 4 Events Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Individual All-Around, Field Sports Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Individual Competition women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Individual Gundersen Large Hill/10km",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Individual Gundersen Normal Hill/10km",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Individual LH men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Individual Pursuit men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "Individual competition men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 26
+  },
+  {
+    "event_title": "Individual men",
+    "BRONZE": 73,
+    "GOLD": 71,
+    "SILVER": 71
+  },
+  {
+    "event_title": "Individual sprint men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Individual women",
+    "BRONZE": 42,
+    "GOLD": 42,
+    "SILVER": 42
+  },
+  {
+    "event_title": "Jumping Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Jumping Individual mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Jumping Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Jumping Team mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "K-1 (kayak single) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "K-1 (kayak single) women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "K-1 10000m men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-1 1000m (kayak single) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "K-1 200m (kayak single) men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-1 200m (kayak single) women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-1 4x500m men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "K-1 500m (kayak single) women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-2 10000m men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "K-2 1000m (kayak double) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-2 200m (kayak double) men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-2 500m (kayak double) women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K-4 1000m (kayak four) men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "K-4 500m (kayak four) women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "K1 1000m kayak single men",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "K1 500m kayak single men",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "K1 500m kayak single women",
+    "BRONZE": 16,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "K1 kayak single men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "K1 kayak single women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "K2 1000m kayak double men",
+    "BRONZE": 36,
+    "GOLD": 36,
+    "SILVER": 36
+  },
+  {
+    "event_title": "K2 200m kayak double men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "K2 500m kayak double men",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "K2 500m kayak double women",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "K4 1000m kayak four men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "K4 500m kayak four women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Keirin men",
+    "BRONZE": 6,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "Keirin women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ladies' Single Skating",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ladies’ 10km Free",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ 1500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ladies’ 3000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ 3000m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Ladies’ 30km Mass Start Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ 4x5km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Ladies’ 5000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ladies’ 7.5km+7.5km Skiathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Aerials",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Alpine Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Downhill",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Moguls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Normal Hill Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Parallel Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Ski Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Ski Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Ski Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Snowboard Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Sprint Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Super-G",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ladies’ Team Pursuit",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Ladies’ Team Sprint Free",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Large Hill Individual men",
+    "BRONZE": 14,
+    "GOLD": 14,
+    "SILVER": 14
+  },
+  {
+    "event_title": "Laser - One Person Dinghy men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Laser Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Laser Radial - One Person Dinghy women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Laser Radial Women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lechner - Windsurfer men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Flyweight, Freestyle (≤105 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Flyweight, Freestyle (≤48 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Light-Flyweight, Greco-Roman (≤48 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤82½ kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤84 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤85 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤87 kilograms) Men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤90 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Light-Heavyweight, Freestyle (≤97 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤82.5 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤84 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤85 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤87 kilograms) Men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤90 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤93 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Light-Heavyweight, Greco-Roman (≤97 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightheavyweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight Men's Double Sculls",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight Women's Double Sculls",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤145 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤146.75 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤55 kilograms) Women",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤60 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤63 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤66 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤67 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤67.5 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤68 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Lightweight, Freestyle (≤70 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤60 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤63 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤66 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤66.6 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤67 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤67.5 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤68 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Lightweight, Greco-Roman (≤70 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Madison men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Marathon - 10 km men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Marathon - 10 km women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Men +100 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men +80kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -100 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -58kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -60 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -66 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -68kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -73 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -80kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -81 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men -90 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men Single Skating",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's +109kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 10,000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 10000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's 100m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 100m Backstroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 100m Breaststroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 100m Butterfly",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 100m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 109kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 10km",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 10km Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 10m Platform",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 110m Hurdles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 12.5km Pursuit",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 1500m",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Men's 1500m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 15km + 15km Skiathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 15km Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 15km Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m Backstroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m Breaststroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m Butterfly",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 200m Individual Medley",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 20km Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 20km Race Walk",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 3000m Steeplechase",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 3m Springboard",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 4 x 100m Freestyle Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 4 x 100m Medley Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 4 x 100m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 4 x 10km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 4 x 200m Freestyle Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 4 x 400m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 400m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 400m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 400m Hurdles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 400m Individual Medley",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 4x7.5km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 5000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's 5000m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's 50km Mass Start Free",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 50km Race Walk",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 50m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 61kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 67kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 73kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 800m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 800m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 81kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's 96kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Aerials",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's All-Around",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Alpine Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Canoe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Canoe Double 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Canoe Single 1000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Cross-country",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Decathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Discus Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Double Sculls",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Doubles",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Men's Downhill",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Eight",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Feather (52-57kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Floor Exercise",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Fly (48-52kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Foil Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Foil Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Four",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Freeski Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freeski Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freeski Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 125kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 57kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 65kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 74kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 86kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Freestyle 97kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 130kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 60kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 67kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 77kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 87kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Greco-Roman 97kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Hammer Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Heavy (81-91kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's High Jump",
+    "BRONZE": 1,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Horizontal Bar",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Individual",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Men's Individual Stroke Play",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Individual Time Trial",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Javelin Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kata",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kayak",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kayak Double 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Kayak Four 500m",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Kayak Single 1000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kayak Single 200m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Keirin",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kumite +75kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kumite -67kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Kumite -75kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's LH Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Light (57-63kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Light Heavy (75-81kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Long Jump",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Madison",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Marathon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Middle (69-75kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Moguls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's NH Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Omnium",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Pair",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Parallel Bars",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Parallel Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Park",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Pole Vault",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Pommel Horse",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Quadruple Sculls",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Rings",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Road Race",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Sabre Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Sabre Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Shot Put",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Single Sculls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Single Skating",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Singles",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Men's Ski Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Snowboard Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Snowboard Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Snowboard Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Snowboard Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Sprint Free",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Street",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Super Heavy (+91kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Super-G",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Synchronised 10m Platform",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Synchronised 3m Springboard",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Team Pursuit",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Team Sprint",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men's Team Sprint Classic",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men's Triple Jump",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Vault",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Welter (63-69kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Épée Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men's Épée Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s 10000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men’s 10km Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 12.5km Pursuit",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 1500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men’s 15km Free",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 15km Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 15km+15km Skiathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 20km Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 4x10km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s 4x7.5km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s 5000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s 5000m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Men’s 50km Mass Start Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Aerials",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Alpine Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Downhill",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Large Hill Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Moguls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Normal Hill Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Parallel Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Singles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Ski Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Ski Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Ski Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Snowboard Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Sprint Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Super-G",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Men’s Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s Team Pursuit",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Men’s Team Sprint Free",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight A, Greco-Roman (≤75 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight B, Greco-Roman (≤82.5 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 0,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤63 kilograms) Women",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤73 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤74 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤75 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤76 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤79 kilograms) Men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤82 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Middleweight, Freestyle (≤87 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤73 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤74 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤75 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤76 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤79 kilograms) Men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤82 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Middleweight, Greco-Roman (≤87 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Military Patrol men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Military Rifle, 200/500/600/800/900/1,000 Yards, Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mistral - Windsurfer men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Mixed 4 x 100m Medley Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Doubles",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "Mixed Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Relay 4x6km (W+M)",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Team",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Mixed Team Aerials",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Team Parallel",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Team Relay mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Mixed Team Snowboard Cross",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Moguls men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Moguls women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Nacra 17 Mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Nacra 17 Mixed mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Normal Hill Individual men",
+    "BRONZE": 21,
+    "GOLD": 22,
+    "SILVER": 23
+  },
+  {
+    "event_title": "Normal Hill Individual women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Olympic Sprint men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Omnium men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Omnium women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "One lap 660y sprint men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Pair Skating",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Pairs mixed",
+    "BRONZE": 48,
+    "GOLD": 50,
+    "SILVER": 48
+  },
+  {
+    "event_title": "Parallel slalom men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Parallel slalom women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Points Race men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Quadruple Sculls Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "RS:X - Windsurfer men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "RS:X - Windsurfer women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "RS:X Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "RS:X Women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "RSX - Windsurfer men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "RSX - Windsurfer women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Relay 3x5km women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Relay 4x10km men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Relay 4x5km women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Relay mix mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Sidehorse vault men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Singles men",
+    "BRONZE": 51,
+    "GOLD": 44,
+    "SILVER": 44
+  },
+  {
+    "event_title": "Singles women",
+    "BRONZE": 47,
+    "GOLD": 42,
+    "SILVER": 42
+  },
+  {
+    "event_title": "Skeet Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Skeet women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Ski Cross men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ski Cross women",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Ski Halfpipe men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ski Halfpipe women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ski Slopestyle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Ski Slopestyle women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Skiathlon 15km  15km men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Skiathlon 7.5+7.5km women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Skiathlon 75km  75km women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Slopestyle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Slopestyle women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Small-Bore Rifle, 50 And 100 Yards, Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Small-Bore Rifle, Disappearing Target, 25 metres, Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Snowboard Cross men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Snowboard Cross women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Softball",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Sprint 15km men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Sprint individual men",
+    "BRONZE": 23,
+    "GOLD": 23,
+    "SILVER": 23
+  },
+  {
+    "event_title": "Sprint men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Star - Keelboat men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Super-Heavyweight, Freestyle (>100 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Super-Heavyweight, Freestyle (≤120 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Super-Heavyweight, Freestyle (≤130 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Super-Heavyweight, Greco-Roman (>100 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Super-Heavyweight, Greco-Roman (≤120 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Super-Heavyweight, Greco-Roman (≤130 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Sydney 2000 Judo - 60 kg men",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Tandem Sprint, 2,000 metres Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team All-Around Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team All-Around, Apparatus Work and Field Sports Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Event",
+    "BRONZE": 0,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Gundersen Large Hill/4x5km",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Pursuit 3000m women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Pursuit 4000m men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team Round Men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team event",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team pursuit men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team pursuit women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Team sprint men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "Team sprint women",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "Teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Tornado - Multihull mixed",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "Trap Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Trap Mixed Team",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Trap women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Two-man",
+    "BRONZE": 2,
+    "GOLD": 4,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Unlimited Class, Greco-Roman Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Welterweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤158 pounds) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤66 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤69 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤72 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤73 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤74 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Welterweight, Freestyle (≤78 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤66 kilograms) Men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤69 kilograms) Men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤72 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤73 kilograms) Men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤74 kilograms) Men",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Welterweight, Greco-Roman (≤78 kilograms) Men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Windglider - Windsurfer men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women",
+    "BRONZE": 7,
+    "GOLD": 7,
+    "SILVER": 7
+  },
+  {
+    "event_title": "Women +67kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women +78 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -48 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -49kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -52 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -57 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -57kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -63 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -67kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -70 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women -78 kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women Single Skating",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's +87kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 10,000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 1000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's 100m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 100m Backstroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 100m Breaststroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 100m Butterfly",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 100m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 100m Hurdles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 10km",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 10km Classic",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 10km Pursuit",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 10m Platform",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 12.5km Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 1500m",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Women's 1500m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 15km Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m Backstroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m Breaststroke",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m Butterfly",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 200m Individual Medley",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 20km Race Walk",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 3000m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 3000m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 3000m Steeplechase",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 30km Mass Start Free",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 3m Springboard",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 4 x 100m Freestyle Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 4 x 100m Medley Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 4 x 100m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 4 x 200m Freestyle Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 4 x 400m Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 4 x 5km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 400m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 400m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 400m Hurdles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 400m Individual Medley",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 49kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 4x6km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's 5000m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's 50m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 55kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 59kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 64kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 7.5km + 7.5km Skiathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 7.5km Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 76kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 800m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 800m Freestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's 87kg",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Aerials",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's All-Around",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Alpine Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Balance Beam",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Canoe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Canoe Double 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Canoe Single 200m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Combined",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Cross-country",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Discus Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Double Sculls",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Doubles",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Women's Downhill",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Eight",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Feather (54-57kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Floor Exercise",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Fly (48-51kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Foil Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Foil Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Four",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Freeski Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freeski Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freeski Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 50kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 53kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 57kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 62kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 68kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Freestyle 76kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Hammer Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Heptathlon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's High Jump",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Individual",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "Women's Individual Stroke Play",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Individual Time Trial",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Javelin Throw",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kata",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kayak",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kayak Double 500m",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Kayak Four 500m",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Kayak Single 200m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kayak Single 500m",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Keirin",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kumite +61kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kumite -55kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Kumite -61kg",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Light (57-60kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Long Jump",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Madison",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Marathon",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Middle (69-75kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Moguls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Monobob",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's NH Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Omnium",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Pair",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Parallel Giant Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Park",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Pole Vault",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Quadruple Sculls",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Road Race",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Sabre Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Sabre Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Shot Put",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Single Sculls",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Singles",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "Women's Ski Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Slalom",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Snowboard Big Air",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Snowboard Cross",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Snowboard Halfpipe",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Snowboard Slopestyle",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Sprint Free",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Street",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Super-G",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Synchronised 10m Platform",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Synchronised 3m Springboard",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Team Pursuit",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women's Team Sprint",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Team Sprint Classic",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women's Triple Jump",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Uneven Bars",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Vault",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Welter (64-69kg)",
+    "BRONZE": 2,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Épée Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women's Épée Team",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women’s 10km Pursuit",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women’s 12.5km Mass Start",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women’s 15km Individual",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women’s 4x6km Relay",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "Women’s 7.5km Sprint",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Women’s Bobsleigh",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "Women’s Singles",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "Yngling - Keelboat women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "alpin combined men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "alpine combined men",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "alpine combined women",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "army rifle 200m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "army rifle 300m 3 positions men",
+    "BRONZE": 3,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "army rifle 300m kneeling men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 2
+  },
+  {
+    "event_title": "army rifle 300m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "army rifle 300m prone men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "army rifle 300m standing men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "au chapelet 33m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "au chapelet 50m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "au cordon dor 33m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "au cordon dor 50m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "balance beam women",
+    "BRONZE": 16,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "bantamweight men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "baseball men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "basketball men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "basketball women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "board Mistral women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "board lechner women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "cesta punta men",
+    "BRONZE": 0,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "class B up to 60 feet men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "clay pigeons team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "clay pigeons, individual men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "club swinging men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "combined 3 events men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "combined 4 events men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "continental style 50m men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "coxless four 4 women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "cricket men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "cross country individual men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "cross country team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "cross-country men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "cross-country women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "curling men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "curling women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "decathlon men",
+    "BRONZE": 24,
+    "GOLD": 25,
+    "SILVER": 24
+  },
+  {
+    "event_title": "discus throw ancient style men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "discus throw both hands men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "discus throw men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "discus throw women",
+    "BRONZE": 21,
+    "GOLD": 21,
+    "SILVER": 21
+  },
+  {
+    "event_title": "double american round (60y - 50y - 40y) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "double columbia round 50y  40y  30y women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "double men",
+    "BRONZE": 0,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "double national round 60y  50y women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "double sculls 2x men",
+    "BRONZE": 46,
+    "GOLD": 46,
+    "SILVER": 46
+  },
+  {
+    "event_title": "double sculls 2x women",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 20
+  },
+  {
+    "event_title": "double trap 120 targets women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "double trap 150 targets men",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "double york round 100y  80y  60y men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "doubles indoor men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "doubles men",
+    "BRONZE": 64,
+    "GOLD": 52,
+    "SILVER": 52
+  },
+  {
+    "event_title": "doubles women",
+    "BRONZE": 52,
+    "GOLD": 44,
+    "SILVER": 44
+  },
+  {
+    "event_title": "downhill men",
+    "BRONZE": 19,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "downhill women",
+    "BRONZE": 18,
+    "GOLD": 19,
+    "SILVER": 17
+  },
+  {
+    "event_title": "dragon mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "duet women",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "eight with coxswain 8 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "eight with coxswain 8 women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "figure riding individual mixed",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "figure riding team mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "firefly class mixed",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "fiveman men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "fixed bird target large birds men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "fixed bird target large birds teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "fixed bird target small bird teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "fixed bird target small birds men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "fleetmatch race keelboat open Soling mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "floor exercises men",
+    "BRONZE": 19,
+    "GOLD": 20,
+    "SILVER": 25
+  },
+  {
+    "event_title": "floor exercises women",
+    "BRONZE": 20,
+    "GOLD": 20,
+    "SILVER": 14
+  },
+  {
+    "event_title": "flying dutchman mixed",
+    "BRONZE": 16,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "foil individual men",
+    "BRONZE": 28,
+    "GOLD": 27,
+    "SILVER": 27
+  },
+  {
+    "event_title": "foil individual women",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "foil masters men",
+    "BRONZE": 1,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "foil team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "foil team women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "football men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "football women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "four without coxswain 4 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "four-man men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "four-oared shell with coxswain men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "four-oared shell with coxswain men - Final 1",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "four-oared shell with coxswain men - Final 2",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "fourman men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "fouroared shell with coxswain 4 women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "free rifle team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "giant slalom men",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "giant slalom women",
+    "BRONZE": 16,
+    "GOLD": 18,
+    "SILVER": 20
+  },
+  {
+    "event_title": "group competition women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "hammer throw men",
+    "BRONZE": 26,
+    "GOLD": 27,
+    "SILVER": 26
+  },
+  {
+    "event_title": "hammer throw women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "handball men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "handball women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "heavyweight - one hand lift men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "heavyweight - two hand lift men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "heptathlon women",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "high jump men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 33
+  },
+  {
+    "event_title": "high jump mixed",
+    "BRONZE": 1,
+    "GOLD": 2,
+    "SILVER": 0
+  },
+  {
+    "event_title": "high jump standing men",
+    "BRONZE": 3,
+    "GOLD": 4,
+    "SILVER": 5
+  },
+  {
+    "event_title": "high jump women",
+    "BRONZE": 20,
+    "GOLD": 21,
+    "SILVER": 23
+  },
+  {
+    "event_title": "hockey men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "hockey women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "horizontal bar men",
+    "BRONZE": 25,
+    "GOLD": 27,
+    "SILVER": 23
+  },
+  {
+    "event_title": "ice hockey men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "ice hockey women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "indian clubs men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "individual 1 ball men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "individual 2 balls men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "individual FITA Olympic round  70m men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "individual FITA Olympic round  70m women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "individual FITA round men",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "individual FITA round women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "individual all-round men",
+    "BRONZE": 26,
+    "GOLD": 27,
+    "SILVER": 29
+  },
+  {
+    "event_title": "individual all-round women",
+    "BRONZE": 25,
+    "GOLD": 25,
+    "SILVER": 26
+  },
+  {
+    "event_title": "individual mixed",
+    "BRONZE": 64,
+    "GOLD": 64,
+    "SILVER": 64
+  },
+  {
+    "event_title": "individual pursuit women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "individual road race men",
+    "BRONZE": 20,
+    "GOLD": 21,
+    "SILVER": 21
+  },
+  {
+    "event_title": "individual road race women",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "individual time trial men",
+    "BRONZE": 9,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "individual time trial women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "javelin throw both hands men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "javelin throw freestyle men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "javelin throw men",
+    "BRONZE": 25,
+    "GOLD": 25,
+    "SILVER": 25
+  },
+  {
+    "event_title": "javelin throw women",
+    "BRONZE": 20,
+    "GOLD": 20,
+    "SILVER": 20
+  },
+  {
+    "event_title": "lacrosse men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "lightweight coxless four 4 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "lightweight double sculls 2x men",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "lightweight double sculls 2x women",
+    "BRONZE": 12,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "long jump individual mixed",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "long jump men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "long jump standing men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "long jump women",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 17
+  },
+  {
+    "event_title": "marathon 10km women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "marathon men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "marathon women",
+    "BRONZE": 9,
+    "GOLD": 9,
+    "SILVER": 9
+  },
+  {
+    "event_title": "mixed doubles indoor mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "mixed doubles mixed",
+    "BRONZE": 14,
+    "GOLD": 12,
+    "SILVER": 12
+  },
+  {
+    "event_title": "moving bird target 28m men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "moving bird target 28m teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "moving bird target 33m men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "moving bird target 33m teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "moving bird target 50m men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "moving bird target 50m teams men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "national round 60y  50y women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "olympic class monotype mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "open category men",
+    "BRONZE": 10,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "open class A men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "open class mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "pair without coxswain 2 men",
+    "BRONZE": 42,
+    "GOLD": 44,
+    "SILVER": 44
+  },
+  {
+    "event_title": "pair without coxswain 2 women",
+    "BRONZE": 22,
+    "GOLD": 22,
+    "SILVER": 22
+  },
+  {
+    "event_title": "pair-oared shell with coxswain men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 2
+  },
+  {
+    "event_title": "parallel bars men",
+    "BRONZE": 27,
+    "GOLD": 24,
+    "SILVER": 24
+  },
+  {
+    "event_title": "pe amateurs and masters men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "pe individual men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "pe masters men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "pe team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "pentathlon men",
+    "BRONZE": 3,
+    "GOLD": 4,
+    "SILVER": 3
+  },
+  {
+    "event_title": "pentathlon women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "plain high diving men",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "points race women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "pole vault men",
+    "BRONZE": 33,
+    "GOLD": 29,
+    "SILVER": 29
+  },
+  {
+    "event_title": "pole vault women",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "polo men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "pommel horse men",
+    "BRONZE": 21,
+    "GOLD": 31,
+    "SILVER": 20
+  },
+  {
+    "event_title": "quadruple sculls with coxswain 4x men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "quadruple sculls with coxswain women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "quadruple sculls without coxsw men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "quadruple sculls without coxsw women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "quadruple sculls without coxswain (4x) men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "quadruple sculls without coxswain (4x) women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "rifle team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "rings men",
+    "BRONZE": 27,
+    "GOLD": 26,
+    "SILVER": 23
+  },
+  {
+    "event_title": "rope climbing men",
+    "BRONZE": 5,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "rugby men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "rugby-7 men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "rugby-7 women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "sabre individual men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "sabre individual women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "sabre masters men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "sabre team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "sabre team women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "sharpie 12m2 mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "shot put both hands men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "shot put men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "shot put women",
+    "BRONZE": 17,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "single sculls 1x men",
+    "BRONZE": 29,
+    "GOLD": 27,
+    "SILVER": 27
+  },
+  {
+    "event_title": "single sculls 1x women",
+    "BRONZE": 11,
+    "GOLD": 11,
+    "SILVER": 11
+  },
+  {
+    "event_title": "single-handed dinghy (Europe) women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "single-handed dinghy open (Laser) mixed",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "singlehanded dinghy Europe women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "singles indoor men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "singles indoor women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "skeet (125 targets) men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "skeet (125 targets) mixed",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "skeet 75 targets women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "slalom men",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "slalom women",
+    "BRONZE": 18,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "softball women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "solo women",
+    "BRONZE": 3,
+    "GOLD": 4,
+    "SILVER": 2
+  },
+  {
+    "event_title": "special figures men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "special figures women",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "sprint 15km women",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "sprint women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "stick single men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "super-G men",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 9
+  },
+  {
+    "event_title": "super-G women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "sur la perche à la herse men",
+    "BRONZE": 0,
+    "GOLD": 1,
+    "SILVER": 2
+  },
+  {
+    "event_title": "sur la perche à la pyramide men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "swallow golondrina mixed",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "synchronized diving 10m platform men",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "synchronized diving 10m platform women",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "synchronized diving 3m springboard men",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "synchronized diving 3m springboard women",
+    "BRONZE": 10,
+    "GOLD": 10,
+    "SILVER": 10
+  },
+  {
+    "event_title": "team FITA Olympic round  70m men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team FITA Olympic round  70m women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team Swedish system men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team competition men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team competition women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team free system men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team horizontal bar men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team mixed",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team parallel bars men",
+    "BRONZE": 2,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team portable apparatus women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team time trial men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "team women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "teams FITA round men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "teams FITA round women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "tempest mixed",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "tournament men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "tournament women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "trap (125 targets) mixed",
+    "BRONZE": 5,
+    "GOLD": 5,
+    "SILVER": 5
+  },
+  {
+    "event_title": "trap 125 targets men",
+    "BRONZE": 17,
+    "GOLD": 16,
+    "SILVER": 16
+  },
+  {
+    "event_title": "trap 75 targets women",
+    "BRONZE": 3,
+    "GOLD": 3,
+    "SILVER": 3
+  },
+  {
+    "event_title": "triple jump men",
+    "BRONZE": 28,
+    "GOLD": 28,
+    "SILVER": 28
+  },
+  {
+    "event_title": "triple jump standing men",
+    "BRONZE": 2,
+    "GOLD": 2,
+    "SILVER": 2
+  },
+  {
+    "event_title": "triple jump women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "tug of war men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "tumbling men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "two-man men",
+    "BRONZE": 34,
+    "GOLD": 36,
+    "SILVER": 32
+  },
+  {
+    "event_title": "two-woman women",
+    "BRONZE": 8,
+    "GOLD": 8,
+    "SILVER": 8
+  },
+  {
+    "event_title": "twoman men",
+    "BRONZE": 4,
+    "GOLD": 4,
+    "SILVER": 4
+  },
+  {
+    "event_title": "twoperson keelboat open Star mixed",
+    "BRONZE": 30,
+    "GOLD": 30,
+    "SILVER": 30
+  },
+  {
+    "event_title": "underwater swimming men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "uneven bars women",
+    "BRONZE": 17,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "vault men",
+    "BRONZE": 26,
+    "GOLD": 27,
+    "SILVER": 24
+  },
+  {
+    "event_title": "vault women",
+    "BRONZE": 16,
+    "GOLD": 18,
+    "SILVER": 18
+  },
+  {
+    "event_title": "volleyball men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "volleyball women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "water polo men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "water polo women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "york round (100y - 80y - 60y) men",
+    "BRONZE": 1,
+    "GOLD": 1,
+    "SILVER": 1
+  },
+  {
+    "event_title": "½-1 Ton Race Two Open",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 2
+  },
+  {
+    "event_title": "épée individual men",
+    "BRONZE": 26,
+    "GOLD": 26,
+    "SILVER": 26
+  },
+  {
+    "event_title": "épée individual women",
+    "BRONZE": 6,
+    "GOLD": 6,
+    "SILVER": 6
+  },
+  {
+    "event_title": "épée team men",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  },
+  {
+    "event_title": "épée team women",
+    "BRONZE": 0,
+    "GOLD": 0,
+    "SILVER": 0
+  }
+]
